@@ -10,7 +10,7 @@ The design features:
 - **Responsive design**: The project is responsive and adjusts its layout based on the screen size, making it suitable for a variety of devices.
 - **Color customization**: CSS variables are used to allow for easy customization of building and window colors.
 
-This project is perfect for demonstrating the capabilities of CSS for creating intricate designs and animations purely with stylesheets. It can serve as a template for further web-based creative projects or as an inspiration for developers interested in learning CSS-based animations and layouts.
+This project is perfect for demonstrating the capabilities of CSS for creating intricate designs purely with stylesheets. It can serve as a template for further web-based creative projects or as an inspiration for developers interested in learning CSS-based gradients and layouts.
 
 ## Technologies Used
 - **HTML**: Structure of the webpage.
